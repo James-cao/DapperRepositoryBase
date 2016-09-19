@@ -15,8 +15,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperRepositoryBase.PlPgSq
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{DF1402A7-4CD5-40EB-AC96-9872551ECB54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperRepository. BenchMarking", "DapperRepository. BenchMarking\DapperRepository. BenchMarking.csproj", "{94E2BCFB-04EA-41FC-A5C6-7D4B9C6B88B2}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,16 +41,11 @@ Global
 		{B38C5A79-7D75-4B9F-918C-D466529D5323}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B38C5A79-7D75-4B9F-918C-D466529D5323}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B38C5A79-7D75-4B9F-918C-D466529D5323}.Release|Any CPU.Build.0 = Release|Any CPU
-		{94E2BCFB-04EA-41FC-A5C6-7D4B9C6B88B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{94E2BCFB-04EA-41FC-A5C6-7D4B9C6B88B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{94E2BCFB-04EA-41FC-A5C6-7D4B9C6B88B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{94E2BCFB-04EA-41FC-A5C6-7D4B9C6B88B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A1297E4B-92DD-489D-BD35-69DC5F01574F} = {DF1402A7-4CD5-40EB-AC96-9872551ECB54}
-		{94E2BCFB-04EA-41FC-A5C6-7D4B9C6B88B2} = {DF1402A7-4CD5-40EB-AC96-9872551ECB54}
 	EndGlobalSection
 EndGlobal
